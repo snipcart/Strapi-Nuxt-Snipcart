@@ -1,0 +1,14 @@
+query Products($id: ID!) {
+  product(id: $id) {
+    id
+    title
+    image
+    description,
+    price,
+    Custom_field {
+      title
+      required,
+      options
+    }
+  }
+}
