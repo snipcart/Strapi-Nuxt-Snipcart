@@ -13,6 +13,7 @@ export default {
   ** Headers of the page
   ** See https://nuxtjs.org/api/configuration-head
   */
+  ssr: 'true',
 
 //  <script src="https://cdn.snipcart.com/themes/v3.2.1/default/snipcart.js"></script>
 
