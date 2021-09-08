@@ -5,7 +5,7 @@ query Products($id: ID!) {
     image
     description,
     price,
-    Custom_field {
+    custom_field {
       title
       required,
       options

@@ -2,9 +2,7 @@ query Products {
   products {
     id
     title
-    image {
-      url
-    }
+    image
     description
   }
 }

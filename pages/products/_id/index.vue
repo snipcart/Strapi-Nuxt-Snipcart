@@ -61,7 +61,7 @@ export default {
   },
   computed: {
     customFields(){
-      return this.product["Custom_field"]
+      return this.product.custom_field
         .map(({title, required, options}) => ({name: title, required, options}))
         .map((x, index) => Object.entries(x)
           .map(([key, value]) => ({[`data-item-custom${index + 1}-${key.toString().toLowerCase()}`]: value})))
