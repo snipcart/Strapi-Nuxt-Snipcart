@@ -17,7 +17,7 @@ export default {
 //  <script src="https://cdn.snipcart.com/themes/v3.2.1/default/snipcart.js"></script>
 
   head: {
-    title: 'The Fanny Pack Shop',
+    title: 'The Bike Shop',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
