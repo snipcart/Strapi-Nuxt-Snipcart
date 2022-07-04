@@ -2,7 +2,7 @@
 
 ![strapi-nuxt-ecommerce](https://snipcart.com/media/205990/strapi_nuxt_tutorial_og.png)
 
-Follow this step-by-step tutorial to leanr how to use Starpi, Nuxt.js & Snipcart to build an e-commerce store in minutes.
+Follow this step-by-step tutorial to learn how to use Starpi ⭐️ 🥧, Nuxt.js & Snipcart to build an e-commerce store in minutes.
 
 Tutorial steps:
 
