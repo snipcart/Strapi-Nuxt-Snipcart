@@ -1,6 +1,6 @@
 # Strapi & Nuxt.js e-commerce app using Snipcart
 
-Follow this step-by-step tutorial to learn how to use Starpi ⭐️ 🥧, Nuxt.js & Snipcart to build an e-commerce store in minutes.
+Follow this step-by-step tutorial to learn how to use Strapi, Nuxt.js & Snipcart to build an e-commerce store in minutes.
 
 Tutorial steps:
 
